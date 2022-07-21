@@ -1,1 +1,6 @@
-{}
+{
+  "env": {
+    "ui_BaseUrl": "https://automationintesting.online/#/admin",
+    "api_BaseUrl": "https://jsonplaceholder.typicode.com/todos/"
+  }
+}
