@@ -1,0 +1,25 @@
+{
+  "name": "cgiassignment",
+  "version": "1.0.0",
+  "description": "QA assignemnt for CGI",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+    "cypress": "9.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajportfolio/cgiAssignment.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Aman Juneja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajportfolio/cgiAssignment/issues"
+  },
+  "homepage": "https://github.com/ajportfolio/cgiAssignment#readme"
+}
